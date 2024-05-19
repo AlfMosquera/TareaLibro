@@ -18,4 +18,4 @@ Tiene tres funcionalidades principales:
 
 # Ejecución 
   - Consulta general:
-!(libro/src/main/java/com/tarea/libro/image/Prueba PostMan Get Libros.jpeg)
+https://raw.githubusercontent.com/AlfMosquera/TareaLibro/libro/ruta/src/main/java/com/tarea/libro/image/PruebaPostManGetLibros.jpeg
