@@ -17,5 +17,5 @@ Tiene tres funcionalidades principales:
  - Agregar libro: Por medio de una solicitud Post, se agrega (aunque de manera temporal al no contar con una base de datos) un nuevo libro con todas sus caracteristicas pertinentes.
 
 # Ejecución 
-  - Consulta general:
-https://raw.githubusercontent.com/AlfMosquera/TareaLibro/libro/ruta/src/main/java/com/tarea/libro/image/PruebaPostManGetLibros.jpeg
+  - Consulta general con el libro agregado:
+[![Prueba-Post-Man-Get-Libros-2.jpg](https://i.postimg.cc/VNZFyk9K/Prueba-Post-Man-Get-Libros-2.jpg)](https://postimg.cc/2qvWhmKW)
