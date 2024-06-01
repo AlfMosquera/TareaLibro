@@ -21,7 +21,7 @@ Tiene tres funcionalidades principales:
  - [![Prueba-Post-Man-Get-Libros.jpg](https://i.postimg.cc/rsxGtGBH/Prueba-Post-Man-Get-Libros.jpg)](https://postimg.cc/CnMn38LC)
  - Consulta Por Id:
  - [![Prueba-Post-Man-Get-Libro-Id.jpg](https://i.postimg.cc/k5GxydrK/Prueba-Post-Man-Get-Libro-Id.jpg)](https://postimg.cc/HJGcpRkk)
- - Libro Agreagado: 
+ - Libro Agregado: 
  - [![Prueba-Post-Man-Post-Libro.jpg](https://i.postimg.cc/fbPY2gZF/Prueba-Post-Man-Post-Libro.jpg)](https://postimg.cc/t1h17kst)
  - Consulta general con el libro agregado:
  - [![Prueba-Post-Man-Get-Libros-2.jpg](https://i.postimg.cc/VNZFyk9K/Prueba-Post-Man-Get-Libros-2.jpg)](https://postimg.cc/2qvWhmKW)
